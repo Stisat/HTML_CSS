@@ -8,47 +8,51 @@ body {
 html{
     width: auto;
     font-family: 'Roboto', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     text-align: center;
     background-color: rgb(216, 229, 235);
     letter-spacing: 1px;
 }
+lDog{
+    color: rgb(4, 20, 46);
+}
 .list1{
-    width: 20%;
-    padding: 0;
+    width: 45%;
     margin: auto;
-    background-color: aquamarine;
-    border: 1px solid white;
-    list-style-position: inside;
     text-align: center;
+    background-color: bisque;
+    border: 1px solid white;
+    border-radius: 1.5cm;
 }
 .list2{
-    width: 100%;
-    text-align: center;
-}
-.center{
-    display: inline-block;
-}
-.center li{
-    text-align: left;
-}
-/* .list2{
-    width: 10%;
-    padding: 0;
+    width: 20%;
     margin: auto;
+    text-align: center;
     background-color: aquamarine;
     border: 1px solid white;
-    list-style-position: inside;
-    text-align: center;
-} */
+    border-radius: 1.5cm;
+}
+.center1{
+    display: inline-block;
+}
+.center1 li{
+    text-align: left;
+}
+.center2{
+    display: inline-block;
+}
+.center2 li{
+    text-align: left;
+}
 .hello{
-    color: red;
+    color: rgb(97, 9, 9);
 }
 .about{
     color: rgb(255, 106, 0);
 }
-.linkYa{
-    color: green;
+h3{
+    color: brown;
+    font-size: 30px;
 }
 
 
